@@ -84,7 +84,7 @@ content:
           Pohang University of Science and Technology (POSTECH) is a private research university in Pohang, South Korea.
         description: | # this will include new lines to allow paragraphs
            Under the guidance of NamHoon Lee, I am currently interning at the Log (Lee Optimization Group), a machine learning laboratory located at POSTECH.   
-    content:
+    
       - layout: left
         title: MLVC Lab
         link: https://mlvc.khu.ac.kr/
