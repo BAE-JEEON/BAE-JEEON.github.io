@@ -28,14 +28,14 @@ github_username:  BAE-JEEON
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# # - title: another link
-# #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-# #   url: Link url (eg. https://google.com)
+Additional icon links
+additional_links:
+- title: google scholar
+  icon: fas fa-globe
+  url: https://scholar.google.co.kr/citations?user=Je-Eon%20Bae&user=44uv_u4AAAAJ
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -95,8 +95,8 @@ content:
     content:
       - layout: left
         title: Kyung Hee University
-      - caption: 2017.03 - 2023.08
-      - caption: GPA : 4.22/4.5
+        caption: - "2017.03 - 2023.08"
+                 - "GPA : 4.22/4.5"
         sub_title: Industrial Engineering & Software Engineering
                   
 #         quote: >
