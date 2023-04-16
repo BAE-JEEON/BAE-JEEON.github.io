@@ -9,7 +9,7 @@ version: 2
 name: JEEON BAE
 title: Curriculum Vitae
 email: jeeon98b@gmail.com
-website: https://scholar.google.co.kr/citations?user=44uv_u4AAAAJ&hl=ko
+google_scholar: https://scholar.google.co.kr/citations?user=44uv_u4AAAAJ&hl=ko
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,7 +48,7 @@ github_username:  BAE-JEEON
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is jeeon and I am undergraduate student at Kyung Hee University. My goal is to make deep learning technology more accessible and allow individuals from diverse backgrounds to benefit from its potential.
+  Hi, my name is Je-Eon Bae and I am undergraduate student at Kyung Hee University. My goal is to make deep learning technology more accessible and allow individuals from diverse backgrounds to benefit from its potential.
   
   Currently, my research is focused on two specific areas: <mark>Semi-supervised Learning</mark> and <mark>Self-supervised Learning</mark>. I am interested in improving the trade-off between the cost of training and model performance in these areas, which can help to make deep learning more accessible to humans.
 
