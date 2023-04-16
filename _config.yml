@@ -46,11 +46,11 @@ github_username:  BAE-JEEON
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile_bae.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name is jeeon and I am undergraduate student at Kyung Hee University. My ultimate goal is to make deep learning technology more accessible and allow individuals from diverse backgrounds to benefit from its potential.
+  
+  Currently, my research is focused on two specific areas: <mark>semi-supervised learning</mark> and <mark>explainable AI</mark>. I am interested in improving the trade-off between the cost of training and model performance in these areas, which can help to make deep learning more accessible to humans.
 
 content:
   - title: Projects # Title for the section
