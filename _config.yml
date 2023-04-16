@@ -118,6 +118,10 @@ content:
       
       - **Je-Eon Bae**, Sung-Ho Bae, Adaptive Regularization Loss for Improving Quality of Pseudo-label in Class Imbalanced Semi-Supervised Learning. KSC 202. **Excellent Paper Award**
       
+      - **Je-Eon Bae**, Dae-Ho Lee, Semi-Supervised Object Detection with Flexible EMA, KCC 2023.
+      
+      - **Je-Eon Bae**, Two-Stage Test Time Intervention for Korean OCR Models, KCC 2023  
+      
   - title: Honors and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
