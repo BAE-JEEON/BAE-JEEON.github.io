@@ -96,8 +96,8 @@ content:
       - layout: left
         title: Kyung Hee University
         caption: |
-            2017.03 - 2023.08
-            GPA: 4.22/4.5
+            "2017.03 - 2023.08"
+            "GPA: 4.22/4.5"
         sub_title: Industrial Engineering & Software Engineering
         description: | # this will include new lines to allow paragraphs
          As an undergraduate at Kyung Hee University, I pursued a major in Industrial Engineering, building a strong mathematical foundation in subjects that are crucial for understanding deep learning theory, including optimization, probability and statistics, and linear algebra. I also earned a degree in Software Engineering, which equipped me with the necessary skills to implement deep learning algorithms.
