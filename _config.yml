@@ -114,8 +114,8 @@ content:
       
       - **Je-Eon Bae**, Dae-Ho Lee, Semi-Supervised Object Detection with Flexible EMA, KCC 2023.
       
-      - **Je-Eon Bae**, Two-Stage Test Time Intervention for Korean OCR Models, KCC 2023  
-      
+      - **Je-Eon Bae**, Two-Stage Test Time Intervention for Korean OCR Models, KCC 2023
+
   - title: Honors and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -130,7 +130,13 @@ content:
       - KHU Software Startup Idea Contest Encouragement Award
       - 2022-1 KHU Scholarship for Outstanding Activities 
       - 2022-2 KHU Scholarship for Outstanding Activities 
-
+      
+  - title: Patents
+      layout: text
+      content: | # this will include new lines to allow paragraphs
+        - Applied for a patent for the alarm device, named **ALARM DEVICE THAT DO NOT DISTURB OTHERS** on August 9, 2017.
+      
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
