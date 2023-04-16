@@ -100,9 +100,9 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
  
- - title: Honors and Awards # Title for the section
+ - title: Honors and Awards
    layout: text
-   content: # this will include new lines to allow paragraphs
+   content: | # this will include new lines to allow paragraphs
       - 2020-1 Academic Excellence Award
       - 2021-2 Academic Excellence Award
       - KHU Data Analysis Competition 1th place (Reward: 1,000,000 won)
