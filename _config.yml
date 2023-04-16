@@ -112,9 +112,11 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - *Je-Eon Bae*, HyunDong Cho, ChanMi Park, SungHo Bae, WonHee Lee. KSC 2022. Dataset Condensation with Gradient Matching Considering Model Biased Noise. **Excellent Paper Award**
-      - *Je-Eon Bae*, Sung-Ho Bae, KSC 2022, Imbalance Loss with the Statistical Properties of Pseudo-labels in Class Imbalanced Semi-Supervised Learning.
-      - *Je-Eon Bae*, Sung-Ho Bae , 2022, Adaptive Regularization Loss for Improving Quality of Pseudo-label in Class Imbalanced Semi-Supervised Learning. **Excellent Paper Award**
+      - **Je-Eon Bae**, HyunDong Cho, ChanMi Park, SungHo Bae, WonHee Lee. Dataset Condensation with Gradient Matching Considering Model Biased Noise. KCC 2022. **Excellent Paper Award**
+      
+      - **Je-Eon Bae**, Sung-Ho Bae, Imbalance Loss with the Statistical Properties of Pseudo-labels in Class Imbalanced Semi-Supervised Learning KSC 2022.
+      
+      - **Je-Eon Bae**, Sung-Ho Bae, Adaptive Regularization Loss for Improving Quality of Pseudo-label in Class Imbalanced Semi-Supervised Learning. KSC 202. **Excellent Paper Award**
       
   - title: Honors and Awards
     layout: text
