@@ -132,8 +132,8 @@ content:
       - 2022-2 KHU Scholarship for Outstanding Activities 
       
   - title: Patents
-      layout: text
-      content: | # this will include new lines to allow paragraphs
+    layout: text
+    content: | # this will include new lines to allow paragraphs
         - Applied for a patent for the alarm device, named **ALARM DEVICE THAT DO NOT DISTURB OTHERS** on August 9, 2017.
       
       
