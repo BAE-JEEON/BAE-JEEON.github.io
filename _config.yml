@@ -72,7 +72,7 @@ content:
 #           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
-  - layout: list # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: ML Lab
@@ -84,17 +84,17 @@ content:
 #           Pohang University of Science and Technology (POSTECH) is a private research university in Pohang, South Korea.
         description: | # this will include new lines to allow paragraphs
            Under the guidance of NamHoon Lee, I am currently interning at the Log (Lee Optimization Group), a machine learning laboratory located at POSTECH.   
-    content:
-      - layout: left
-        title: MLVC Lab
-        link: https://mlvc.khu.ac.kr/
-        # link_text: https://mlvc.khu.ac.kr/
-        sub_title: Undergraduate Lab Intern
-        caption: January 2022 - December 2022
-#         quote: >
-#            University of Kyung Hee is a private research university in Seoul and Yongin, South Korea.
-        description: | # this will include new lines to allow paragraphs
-           Under the guidance of SungHo Bae, I interned at the MLVC(Machine Learning Visual Computing Lab), located at Kyung Hee university.
+#     content:
+#       - layout: left
+#         title: MLVC Lab
+#         link: https://mlvc.khu.ac.kr/
+#         # link_text: https://mlvc.khu.ac.kr/
+#         sub_title: Undergraduate Lab Intern
+#         caption: January 2022 - December 2022
+# #         quote: >
+# #            University of Kyung Hee is a private research university in Seoul and Yongin, South Korea.
+#         description: | # this will include new lines to allow paragraphs
+#            Under the guidance of SungHo Bae, I interned at the MLVC(Machine Learning Visual Computing Lab), located at Kyung Hee university.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -110,17 +110,20 @@ content:
          As an undergraduate at Kyung Hee University, I pursued a major in Industrial Engineering, building a strong mathematical foundation in subjects that are crucial for understanding deep learning theory, including optimization, probability and statistics, and linear algebra. I also earned a degree in Software Engineering, which equipped me with the necessary skills to implement deep learning algorithms.
 
       
-  - title: A Little More About Me
+  - title: Honors and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - 2020-1 Academic Excellence Award
+      - 2021-2 Academic Excellence Award
+      - KHU Data Analysis Competition 1th place 
+      - 2022 Korea Software Conference Excellent Paper Award
+      - 2022 Korea Computer Science Conference Excellent Paper Award
+      - 2022 KHU Software Mileage Contest Gold Prize 
+      - KHU AI Competition In-campus 4th place 
+      - SK Startup Club Selection Contest Encouragement Award
+      - KHU Software Startup Idea Contest Encouragement Award
+      - 2022-1 KHU Scholarship for Outstanding Activities 
+      - 2022-2 KHU Scholarship for Outstanding Activities 
 
 # Footer
 footer_show_references: true
