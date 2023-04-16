@@ -9,7 +9,6 @@ version: 2
 name: JEEON BAE
 title: Curriculum Vitae
 email: jeeon98b@gmail.com
-google_scholar: https://scholar.google.co.kr/citations?user=44uv_u4AAAAJ&hl=ko
 
 # Dark Mode (true/false/never)
 darkmode: false
