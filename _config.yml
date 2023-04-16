@@ -95,8 +95,8 @@ content:
     content:
       - layout: left
         title: Kyung Hee University
-        caption: 2017.03 - 2023.08
-        caption: GPA ':' 4.22/4.5
+      - caption: 2017.03 - 2023.08
+      - caption: GPA : 4.22/4.5
         sub_title: Industrial Engineering & Software Engineering
                   
 #         quote: >
