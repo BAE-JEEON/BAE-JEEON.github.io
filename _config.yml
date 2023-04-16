@@ -73,8 +73,8 @@ content:
 
   - title: Experience # Title for the section
   - layout: list # Type of content section (list/text)
-    content:
-      - layout: top-left
+  - content:
+      - layout: left
         title: ML Lab
         link: https://ml.postech.ac.kr/
         # link_text: https://ml.postech.ac.kr/
@@ -85,7 +85,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            Under the guidance of NamHoon Lee, I am currently interning at the Log (Lee Optimization Group), a machine learning laboratory located at POSTECH.   
     
-      - layout: middle-left
+      - layout: left
         title: MLVC Lab
         link: https://mlvc.khu.ac.kr/
         # link_text: https://mlvc.khu.ac.kr/
