@@ -80,7 +80,7 @@ content:
         sub_title: Undergraduate Lab Intern
         caption: January 2023 - Present
         description: |
-          Under the guidance of NamHoon Lee, I am currently interning at the Log (Lee Optimization Group), a machine learning laboratory located at POSTECH.
+          Under the guidance of NamHoon Lee, I am currently interning at the ML Lab(Machine Learning), located at POSTECH.
 
       - layout: left
         title: MLVC Lab
@@ -88,7 +88,7 @@ content:
         sub_title: Undergraduate Lab Intern
         caption: January 2022 - December 2022
         description: |
-          Under the guidance of SungHo Bae, I interned at the MLVC(Machine Learning Visual Computing Lab), located at Kyung Hee university.
+          Under the guidance of SungHo Bae, I interned at the MLVC Lab(Machine Learning Visual Computing Lab), located at Kyung Hee university.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
