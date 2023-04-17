@@ -80,7 +80,7 @@ content:
         sub_title: Undergraduate Lab Intern
         caption: January 2023 - Present
         description: |
-          Under the guidance of Prof.NamHoon Lee, I am currently interning at the **Machine Learning Lab**, POSTECH.
+          Under the guidance of [Prof.NamHoon Lee](https://namhoonlee.github.io/), I am currently interning at the **Machine Learning Lab**, POSTECH.
 
       - layout: left
         title: MLVC Lab
@@ -88,7 +88,7 @@ content:
         sub_title: Undergraduate Lab Intern
         caption: January 2022 - December 2022
         description: |
-          Under the guidance of Prof.SungHo Bae, I interned at the **Machine Learning Visual Computing Lab**, Kyung Hee university.
+          Under the guidance of Prof.SungHo Bae, I interned at the **Machine Learning and Visual Computing Lab**, Kyung Hee university.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
