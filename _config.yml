@@ -49,7 +49,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Je-Eon Bae and I am undergraduate student at Kyung Hee University. My goal is to make deep learning technology more accessible and allow individuals from diverse backgrounds to benefit from its potential.
   
-  Currently, my research is focused on two specific areas: <mark>Semi-supervised Learning</mark> and <mark>Self-supervised Learning</mark>. I am interested in improving the trade-off between the cost of training and model performance in these areas, which can help to make deep learning more accessible to humans.
+  Currently, my research is focused on two specific areas: <mark>Semi-,Self-supervised Learning</mark> and <mark>Model Compression</mark>. I am interested in improving the trade-off between the training cost and model performance in these areas, which can help to make deep learning more accessible to humans.
 
 content:
 #   - title: Projects # Title for the section
