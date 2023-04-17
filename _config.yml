@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: JEEON BAE
+name: JE-EON BAE
 title: Curriculum Vitae
 email: jeeon98b@gmail.com
 
@@ -122,7 +122,7 @@ content:
       - 2022 Korea Software Conference Excellent Paper Award
       - 2022 Korea Computer Science Conference Excellent Paper Award
       - 2022 KHU Software Mileage Contest Gold Prize 
-      - KHU AI Competition In-campus 4th place 
+      - KHU AI Competition 4th place 
       - SK Startup Club Selection Contest Encouragement Award
       - KHU Software Startup Idea Contest Encouragement Award
       - 2022-1 KHU Scholarship for Outstanding Activities 
@@ -131,7 +131,7 @@ content:
   - title: Patents
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - Applied for a patent for the alarm device, named **ALARM DEVICE THAT DO NOT DISTURB OTHERS** on August 9, 2017.
+        - Applied for a patent for the alarm device, **ALARM DEVICE THAT DO NOT DISTURB OTHERS** on August 9, 2017.
       
       
 # Footer
