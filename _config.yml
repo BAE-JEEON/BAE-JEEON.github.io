@@ -80,7 +80,7 @@ content:
         sub_title: Undergraduate Lab Intern
         caption: January 2023 - Present
         description: |
-          Under the guidance of [Prof.NamHoon Lee](https://namhoonlee.github.io/), I am currently interning at the **Machine Learning Lab**, (POSTECH)[https://www.postech.ac.kr/].
+          Under the guidance of [Prof.NamHoon Lee](https://namhoonlee.github.io/), I am currently interning at the **Machine Learning Lab**, [POSTECH](https://www.postech.ac.kr/).
 
       - layout: left
         title: MLVC Lab
@@ -88,7 +88,7 @@ content:
         sub_title: Undergraduate Lab Intern
         caption: January 2022 - December 2022
         description: |
-          Under the guidance of [Prof.SungHo Bae](https://scholar.google.co.kr/citations?user=EULut5oAAAAJ&hl=ko), I interned at the **Machine Learning and Visual Computing Lab**, (Kyung Hee university)[https://www.khu.ac.kr/].
+          Under the guidance of [Prof.SungHo Bae](https://scholar.google.co.kr/citations?user=EULut5oAAAAJ&hl=ko), I interned at the **Machine Learning and Visual Computing Lab**, [Kyung Hee university](https://www.khu.ac.kr/).
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -98,7 +98,7 @@ content:
         caption: "March 2017 - August 2023"
         sub_title: "Industrial Engineering & Software Engineering (GPA: 4.22/4.5)"
         description: | # this will include new lines to allow paragraphs
-         As an undergraduate at Kyung Hee University, I pursued a major in (Industrial Engineering)[https://eng.khu.ac.kr/ie], building a strong mathematical foundation in subjects that are crucial for understanding deep learning theory, including optimization, probability and statistics, and linear algebra. I also earned a degree in (Software Engineering)[https://software.khu.ac.kr/software/user/main/view.do], which equipped me with the necessary skills to implement deep learning algorithms.
+         As an undergraduate at Kyung Hee University, I pursued a major in [Industrial Engineering](https://eng.khu.ac.kr/ie), building a strong mathematical foundation in subjects that are crucial for understanding deep learning theory, including optimization, probability and statistics, and linear algebra. I also earned a degree in [Software Engineering](https://software.khu.ac.kr/software/user/main/view.do), which equipped me with the necessary skills to implement deep learning algorithms.
   
   - title: Publications
     layout: text
