@@ -98,7 +98,7 @@ content:
         caption: "March 2017 - August 2023"
         sub_title: "Industrial Engineering & Software Engineering (GPA: 4.22/4.5)"
         description: | # this will include new lines to allow paragraphs
-         During my time as an undergraduate student at Kyung Hee University, I opted to pursue a dual degree program in [Industrial Engineering](https://eng.khu.ac.kr/ie) and [Software Engineering](https://software.khu.ac.kr/software/user/main/view.do). 
+         During my time as an undergraduate student at Kyung Hee University, I pursued a dual degree in [Industrial Engineering](https://eng.khu.ac.kr/ie) and [Software Engineering](https://software.khu.ac.kr/software/user/main/view.do). 
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
