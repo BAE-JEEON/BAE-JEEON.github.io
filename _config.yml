@@ -116,6 +116,8 @@ content:
   - title: Honors and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - 2017 SK Startup Club Contest Encouragement Award
+      - 2020 KHU Software Idea Contest Encouragement Award
       - 2020 KHU Academic Excellence Award
       - 2021 KHU Academic Excellence Award
       - 2022 KHU Data Analysis Competition 1th place 
@@ -123,8 +125,6 @@ content:
       - 2022 Korea Computer Science Conference Excellent Paper Award
       - 2022 KHU Software Mileage Contest Gold Prize 
       - 2022 KHU AI Competition 4th place 
-      - 2017 SK Startup Club Contest Encouragement Award
-      - 2020 KHU Software Idea Contest Encouragement Award
       - 2022-1 KHU Scholarship for Outstanding Activities 
       - 2022-2 KHU Scholarship for Outstanding Activities 
       
