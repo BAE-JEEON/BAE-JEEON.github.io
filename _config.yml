@@ -46,10 +46,13 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Je-Eon Bae and I am undergraduate student at Kyung Hee University. My goal is to make deep learning technology more accessible and allow individuals from diverse backgrounds to benefit from its potential.
+about_content: | # this will include new lines to allow paragraphs 
+  Hi, I'm Je-Eon Bae, a PhD student in [artificial intelligence](https://ai.postech.ac.kr/) at [Postech](https://www.postech.ac.kr/).
   
-  Currently, my research is focused on two specific areas: <mark>Semi-,Self-supervised Learning</mark> and <mark>Model Compression</mark>. I am interested in improving the trade-off between the training cost and model performance in these areas, which can help to make deep learning more accessible to humans.
+  My goal is to become an engineer who maximizes both engineering and societal value through machine learning.
+  To achieve this goal, I'm conducting research to enable people with diverse backgrounds to utilize machine learning technology at lower costs and with greater stability. 
+  
+  Currently, my research is focused on two specific areas: <mark>Data-efficient Learning</mark> and <mark>Model Compression</mark>.
 
 content:
 #   - title: Projects # Title for the section
@@ -74,13 +77,21 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+       - layout: left
+        title: ML Lab
+        link: https://ml.postech.ac.kr/
+        sub_title: Ph.D & Combined
+        caption: July 2023 - Present
+        description: |
+          Under the supervision of [Prof.Namhoon Lee](https://namhoonlee.github.io/), I am currently working at the **Machine Learning Lab**, [POSTECH](https://www.postech.ac.kr/).
+    
       - layout: left
         title: ML Lab
         link: https://ml.postech.ac.kr/
         sub_title: Undergraduate Lab Intern
-        caption: January 2023 - Present
+        caption: January 2023 - June 2023
         description: |
-          Under the guidance of [Prof.Namhoon Lee](https://namhoonlee.github.io/), I am currently interning at the **Machine Learning Lab**, [POSTECH](https://www.postech.ac.kr/).
+          Under the supervision of [Prof.Namhoon Lee](https://namhoonlee.github.io/), I interned at the **Machine Learning Lab**, [POSTECH](https://www.postech.ac.kr/).
 
       - layout: left
         title: MLVC Lab
@@ -88,44 +99,45 @@ content:
         sub_title: Undergraduate Lab Intern
         caption: January 2022 - December 2022
         description: |
-          Under the guidance of [Prof.Sungho Bae](https://scholar.google.co.kr/citations?user=EULut5oAAAAJ&hl=ko), I interned at the **Machine Learning and Visual Computing Lab**, [Kyung Hee university](https://www.khu.ac.kr/).
+          Under the supervision of [Prof.Sungho Bae](https://scholar.google.co.kr/citations?user=EULut5oAAAAJ&hl=ko), I interned at the **Machine Learning and Visual Computing Lab**, [Kyung Hee university](https://www.khu.ac.kr/).
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Kyung Hee University
-        caption: "March 2017 - August 2023"
+        caption: "March 2017 - June 2023"
         sub_title: "Industrial Engineering & Software Engineering (GPA: 4.22/4.5)"
         description: | # this will include new lines to allow paragraphs
-         During my time as an undergraduate student at Kyung Hee University, I pursued a dual degree in [Industrial Engineering](https://eng.khu.ac.kr/ie) and [Software Engineering](https://software.khu.ac.kr/software/user/main/view.do). 
+         While I was an undergraduate student at Kyung Hee University, I earned a dual degree in [Industrial Engineering](https://eng.khu.ac.kr/ie) and [Software Engineering](https://software.khu.ac.kr/software/user/main/view.do).
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Je-Eon Bae**, HyunDong Cho, ChanMi Park, SungHo Bae, WonHee Lee. Dataset Condensation with Gradient Matching Considering Model Biased Noise, KCC 2022. **Excellent Paper Award**
-      
-      - **Je-Eon Bae**, Sung-Ho Bae, Imbalance Loss with the Statistical Properties of Pseudo-labels in Class Imbalanced Semi-Supervised Learning, KSC 2022.
-      
-      - **Je-Eon Bae**, Sung-Ho Bae, Adaptive Regularization Loss for Improving Quality of Pseudo-label in Class Imbalanced Semi-Supervised Learning, KSC 2022. **Excellent Paper Award**
+      - **Je-Eon Bae**, Two-Stage Test Time Intervention for Korean OCR Models, KCC 2023.
       
       - **Je-Eon Bae**, Dae-Ho Lee, Semi-Supervised Object Detection with Flexible EMA, KCC 2023.
       
-      - **Je-Eon Bae**, Two-Stage Test Time Intervention for Korean OCR Models, KCC 2023
+      - **Je-Eon Bae**, Sung-Ho Bae, Adaptive Regularization Loss for Improving Quality of Pseudo-label in Class Imbalanced Semi-Supervised Learning, KSC 2022. **Excellent Paper Award**
+      
+      - **Je-Eon Bae**, Sung-Ho Bae, Imbalance Loss with the Statistical Properties of Pseudo-labels in Class Imbalanced Semi-Supervised Learning, KSC 2022.
+      
+      - **Je-Eon Bae**, HyunDong Cho, ChanMi Park, SungHo Bae, WonHee Lee. Dataset Condensation with Gradient Matching Considering Model Biased Noise, KCC 2022. **Excellent Paper Award**
+      
 
   - title: Honors and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 2017 SK Startup Club Contest Encouragement Award
-      - 2020 KHU Software Idea Contest Encouragement Award
-      - 2020 KHU Academic Excellence Award
-      - 2021 KHU Academic Excellence Award
-      - 2022 KHU Data Analysis Competition 1th place 
-      - 2022 Korea Software Conference Excellent Paper Award
-      - 2022 Korea Computer Science Conference Excellent Paper Award
-      - 2022 KHU Software Mileage Contest Gold Prize 
-      - 2022 KHU AI Competition 4th place 
-      - 2022-1 KHU Scholarship for Outstanding Activities 
-      - 2022-2 KHU Scholarship for Outstanding Activities 
+      - 2020 Kyung Hee University Software Idea Contest Encouragement Award
+      - 2020 Academic Excellence Award 
+      - 2021 Academic Excellence Award
+      - 2022 Kyung Hee University Data Analysis Competition 1th place
+      - 2022 Kyung Hee University AI Competition 4th place 
+      - 2022 Korea Software Conference Excellent Paper Award 
+      - 2022 Korea Computer Science Conference Excellent Paper Award 
+      - 2022 Kyung Hee University Software Mileage Contest Gold Prize 
+      - 2022-1 Kyung Hee University Scholarship for Outstanding Activities 
+      - 2022-2 Kyung Hee University Scholarship for Outstanding Activities 
       
   - title: Patents
     layout: text
