@@ -98,7 +98,6 @@ content:
     content:
       - layout: left
         title: Kyung Hee University 
-               (B.S.)
         caption: "March 2017 - June 2023"
         sub_title: "Industrial Engineering & Software Engineering (GPA: 4.22/4.5)"
         description: | # this will include new lines to allow paragraphs
@@ -106,12 +105,12 @@ content:
         
       - layout: left 
         title: Postech 
-               (Combined Ph.D. & M.S.)
         caption: July 2023 - Present
         link: https://ml.postech.ac.kr/
         sub_title: Artificial Intelligence
         description: |
-          Under the supervision of [Prof.Namhoon Lee](https://namhoonlee.github.io/), I am currently working at the **Machine Learning Lab**, [POSTECH](https://www.postech.ac.kr/).
+          Under the supervision of [Prof.Namhoon Lee](https://namhoonlee.github.io/), I am currently in a Ph.D. & Combined program at [POSTECH](https://www.postech.ac.kr/).
+         
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
