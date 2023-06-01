@@ -47,12 +47,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs 
-  Hi, I'm Je-Eon Bae, a PhD student in [artificial intelligence](https://ai.postech.ac.kr/) at [Postech](https://www.postech.ac.kr/).
+  Hi, I'm Je-Eon Bae, a PhD student in [Artificial Intelligence] at [Postech](https://ai.postech.ac.kr/).
   
   My goal is to become an engineer who maximizes both engineering and societal value through machine learning.
   To achieve this goal, I'm conducting research to enable people with diverse backgrounds to utilize machine learning technology at lower costs and with greater stability. 
   
-  Currently, my research is focused on two specific areas: <mark>Data-efficient Learning</mark> and <mark>Model Compression</mark>.
+  Currently, my research is focused on two specific areas: <mark>Data-efficient Learning</mark> and <mark>Interpretable neural networks</mark>.
 
 content:
 #   - title: Projects # Title for the section
