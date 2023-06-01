@@ -97,15 +97,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Kyung Hee University (B.S.)
+        title: Kyung Hee University 
+               (B.S.)
         caption: "March 2017 - June 2023"
         sub_title: "Industrial Engineering & Software Engineering (GPA: 4.22/4.5)"
         description: | # this will include new lines to allow paragraphs
          While I was an undergraduate student at Kyung Hee University, I earned a dual degree in [Industrial Engineering](https://eng.khu.ac.kr/ie) and [Software Engineering](https://software.khu.ac.kr/software/user/main/view.do).
-          - layout: left
         
       - layout: left 
-        title: Postech (Combined Ph.D. & M.S.)
+        title: Postech 
+               (Combined Ph.D. & M.S.)
         caption: July 2023 - Present
         link: https://ml.postech.ac.kr/
         sub_title: Artificial Intelligence
