@@ -47,7 +47,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs 
-  Hi, I'm Je-Eon Bae, a Ph.D student in Artificial Intelligence at [Postech](https://ai.postech.ac.kr/).
+  Hi, I'm Je-Eon Bae, a Ph.D.student in Artificial Intelligence at [Postech](https://ai.postech.ac.kr/).
   
   My goal is to become an engineer who maximizes economic and societal value through machine learning.
   To achieve this goal, I am researching to make machine learning technology more accessible to people from all backgrounds. 
@@ -76,15 +76,7 @@ content:
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: ML Lab
-        link: https://ml.postech.ac.kr/
-        sub_title: Ph.D & Combined Student
-        caption: July 2023 - Present
-        description: |
-          Under the supervision of [Prof.Namhoon Lee](https://namhoonlee.github.io/), I am currently working at the **Machine Learning Lab**, [POSTECH](https://www.postech.ac.kr/).
-    
+    content:    
       - layout: left
         title: ML Lab
         link: https://ml.postech.ac.kr/
@@ -105,11 +97,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Kyung Hee University
+        title: Kyung Hee University (B.S.)
         caption: "March 2017 - June 2023"
         sub_title: "Industrial Engineering & Software Engineering (GPA: 4.22/4.5)"
         description: | # this will include new lines to allow paragraphs
          While I was an undergraduate student at Kyung Hee University, I earned a dual degree in [Industrial Engineering](https://eng.khu.ac.kr/ie) and [Software Engineering](https://software.khu.ac.kr/software/user/main/view.do).
+          - layout: left
+        
+       -layout: left 
+        title: Postech (Ph.D & Combined)
+        caption: July 2023 - Present
+        link: https://ml.postech.ac.kr/
+        sub_title: Artificial Intelligence
+        description: |
+          Under the supervision of [Prof.Namhoon Lee](https://namhoonlee.github.io/), I am currently working at the **Machine Learning Lab**, [POSTECH](https://www.postech.ac.kr/).
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
