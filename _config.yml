@@ -47,7 +47,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs 
-  Hi, I'm Je-Eon Bae, a PhD student in [Artificial Intelligence] at [Postech](https://ai.postech.ac.kr/).
+  Hi, I'm Je-Eon Bae, a PhD student in Artificial Intelligence at [Postech](https://ai.postech.ac.kr/).
   
   My goal is to become an engineer who maximizes both economic and societal value through machine learning.
   To achieve this goal, I'm conducting research to enable people with diverse backgrounds to utilize machine learning technology at lower costs and with greater stability. 
