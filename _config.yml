@@ -114,7 +114,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Jeeon Bae, Sungbin Shin, Namhoon Lee, Semi-supervised Concept Bottleneck Models, ICML 2023 Workshop on AIHCI
+      - Jeeon Bae, Sungbin Shin, Namhoon Lee, Semi-supervised Concept Bottleneck Models, ICML 2023 Workshop on AI HCI
       
       - Jeeon Bae, Two-Stage Test Time Intervention for Korean OCR Models, KCC 2023.
       
