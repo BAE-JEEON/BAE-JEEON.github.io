@@ -114,17 +114,17 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Jeeon Bae, Sungbin Shin, Namhoon Lee, Semi-supervised Concept Bottleneck Models, ICML 2023 Workshop on Artificial Intelligence and Human-Computer Interaction.
+      - Jeeon Bae, Sungbin Shin, Namhoon Lee, Semi-supervised Concept Bottleneck Models, ICML 2023 Workshop on Artificial Intelligence and Human-Computer Interaction.
       
-      - **Je-Eon Bae**, Two-Stage Test Time Intervention for Korean OCR Models, KCC 2023.
+      - Jeeon Bae, Two-Stage Test Time Intervention for Korean OCR Models, KCC 2023.
       
-      - **Je-Eon Bae**, Dae-Ho Lee, Semi-Supervised Object Detection with Flexible EMA, KCC 2023.
+      - Jeeon Bae, Daeho Lee, Semi-Supervised Object Detection with Flexible EMA, KCC 2023.
       
-      - **Je-Eon Bae**, Sung-Ho Bae, Adaptive Regularization Loss for Improving Quality of Pseudo-label in Class Imbalanced Semi-Supervised Learning, KSC 2022. **Excellent Paper Award**
+      - Jeeon Bae, Sungho Bae, Adaptive Regularization Loss for Improving Quality of Pseudo-label in Class Imbalanced Semi-Supervised Learning, KSC 2022. **Excellent Paper Award**
       
-      - **Je-Eon Bae**, Sung-Ho Bae, Imbalance Loss with the Statistical Properties of Pseudo-labels in Class Imbalanced Semi-Supervised Learning, KSC 2022.
+      - Jeeon Bae, Sungho Bae, Imbalance Loss with the Statistical Properties of Pseudo-labels in Class Imbalanced Semi-Supervised Learning, KSC 2022.
       
-      - **Je-Eon Bae**, HyunDong Cho, ChanMi Park, SungHo Bae, WonHee Lee. Dataset Condensation with Gradient Matching Considering Model Biased Noise, KCC 2022. **Excellent Paper Award**
+      - Jeeon Bae, Hyundong Cho, Chanmi Park, SungHo Bae, WonHee Lee. Dataset Condensation with Gradient Matching Considering Model Biased Noise, KCC 2022. **Excellent Paper Award**
       
 
   - title: Honors and Awards
