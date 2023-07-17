@@ -116,9 +116,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Jeeon Bae, Sungbin Shin, Namhoon Lee, Semi-supervised Concept Bottleneck Models, ICML 2023 Workshop on AI HCI
       
-      - Jeeon Bae, Two-Stage Test Time Intervention for Korean OCR Models, KCC 2023.
+      - Jeeon Bae, Two-Stage Test Time Intervention for Korean OCR Models, KCC 2023. **Excellent Paper Award**
       
-      - Jeeon Bae, Daeho Lee, Semi-Supervised Object Detection with Flexible EMA, KCC 2023.
+      - Jeeon Bae, Daeho Lee, Semi-Supervised Object Detection with Flexible EMA, KCC 2023. **Best Paper Award**
       
       - Jeeon Bae, Sungho Bae, Adaptive Regularization Loss for Improving Quality of Pseudo-label in Class Imbalanced Semi-Supervised Learning, KSC 2022. **Excellent Paper Award**
       
@@ -139,7 +139,9 @@ content:
       - 2022 Korea Software Conference Excellent Paper Award 
       - 2022 Korea Computer Science Conference Excellent Paper Award 
       - 2022 Kyung Hee University Software Mileage Contest Gold Prize 
-      - 2022 Kyung Hee University Scholarship for Outstanding Activities 
+      - 2022 Kyung Hee University Scholarship for Outstanding Activities  
+      - 2023 Korea Computer Science Conference Excellent Paper Award
+      - 2023 Korea Computer Science Conference Best Paper Award
       
   - title: Patents
     layout: text
